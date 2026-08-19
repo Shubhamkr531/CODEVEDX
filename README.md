@@ -57,7 +57,7 @@ This repository contains the projects completed during my Data Science Internshi
 
 ## Author
 
-**Vijay Bairwa**  
+**Shubham Yadav**   
 B.Tech CSE Student  
 Vivekananda Global University, Jaipur
 
